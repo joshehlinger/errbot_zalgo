@@ -1,5 +1,5 @@
 # Errbot Zalgo
-h̨̘̣̼͓̘̠͓͍͍ͤ̈́ͮ̚e͉͍ͥͮͮ҉̶̠̖ c͓͛͗҉̴͍̾͆̓oͥ͂m͏̴̩͔̹̙͍̘̍͋̊̕͜ḛ̘͛͘ś̡̲̣̪̪̬͒ͦͭ̆̊͡
+H̀̕͢͝͠E͝ Ć̢̣͍̈̋O̙̳̒́M̨̤̭͂̐͊̈́ͭ͞E̴̳͉̺͈̤̓̀ͩͨ̍҉S̡̮̹̞̙̩̎͊ͫͯ̕̚͜͝͠
 
 ## The Creature
 
@@ -16,7 +16,7 @@ Z̶̶̛͈̎̿͊͐͡҉̴̮̬̊͡a̛̘̹̬̼̐̆l͚ǵ̴̡̘͙͔͑̂̌ͫͩ̄̿͢o�
 
 As admin of an err chatbot, send the following command over XMPP:
 
-!install git://github.com/joshehlinger/errbot_zalgo.git
+`!install git://github.com/joshehlinger/errbot_zalgo.git`
 
 ## Usage
 
