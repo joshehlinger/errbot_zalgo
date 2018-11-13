@@ -1,0 +1,9 @@
+[Core]
+name = Zalgo
+module = zalgo
+
+[Documentation]
+description = HE COMES
+
+[Python]
+version = 3
